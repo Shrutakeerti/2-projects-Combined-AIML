@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 import numpy as np
 
-# Load the saved model
+
 with open(r'D:\Jal Shakti\well_extraction_model.pkl', 'rb') as f:
     model = pickle.load(f)
 
