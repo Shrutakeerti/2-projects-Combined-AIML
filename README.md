@@ -22,4 +22,19 @@ Setup and Installation
 To run these projects locally, follow the steps below:
 
 1. Clone the Repository
-    git clone https://github.com/Shrutakeerti/2-projects-Combined-AIML.git 
+    git clone https://github.com/Shrutakeerti/2-projects-Combined-AIML.git
+
+2.2. Navigate to the Project Directory
+cd 2-projects-Combined-AIML
+
+3.3. Install Required Dependencies
+
+Ensure you have Python installed (preferably version 3.6 or higher). Install the necessary packages using pip:
+
+cd 2-projects-Combined-AIML
+ 4. Run the project by 
+ python main.py
+ python main2.py 
+
+ 
+   
